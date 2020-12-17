@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=XModMap - Caplock To Control
+Comment=XModMap - Caplock To Control
+Path=/home/nguyenvinhlinh/Software/XmodMap-Caplock-to-Control
+Icon=/home/nguyenvinhlinh/Software/XmodMap-Caplock-to-Control/icon.png
+Exec=/usr/bin/xmodmap XmodMap
+Terminal=false
+Categories=Development;
