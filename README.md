@@ -1,5 +1,5 @@
 # XmodMap - Caplock to Control
-## A start-up gnome application to change Caplock to Control
+## A script to change Caplock to Control
 ### Why do I create this repo?
 My daily work required runing two computers, a Fedora(Gnome) and a Window 10. Idealy, I use only a pair of keyboard and mouse. In middle, there is a ugreen switch .
 I always prefer binding `Caplock` to `Ctr`. My main problem is after I switch from `Window` to `Fedora`, I cannot use my `Caplock` as a `Ctr`. Due to limited time available, I create
